@@ -22,4 +22,6 @@ The aim of this analysis is to evaluate whether regional genetic activity correl
 ### Figure 1: Whole-Brain DRD2 Expression Heatmap
 
 ![DRD2 Expression Heatmap](drd2_heatmap.png)
+*Fig 1: Complete microarray matrix view from the Allen Human Brain Atlas interface tracking DRD2 expression profiles across human donor tissue.*
+
 
