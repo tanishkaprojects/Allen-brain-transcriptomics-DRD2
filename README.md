@@ -38,4 +38,5 @@ The aim of this analysis is to evaluate whether regional genetic activity correl
 
 | Micro View: Caudate Head Detail |
 ![Caudate Head Zoom](drd2_micro_caudal_head_zoomed.png) |
-| *Figure 2B: Zoomed-in tissue section highlighting the caudate head boundary.* |
+
+**Figure 2B: Zoomed-in tissue section highlighting the caudate head boundary.**
