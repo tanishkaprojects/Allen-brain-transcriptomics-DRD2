@@ -37,19 +37,17 @@ The aim of this analysis is to evaluate whether regional genetic activity correl
 
 --- 
 
-## 4. Quantitative Structural Breakdown
-
-## 4. Quantitative Structural Breakdown
+## Structural Breakdown
 
 ### Striatal Circuit Expression Data
 
-| Brain Region | Subregion | Heatmap Color | Relative Enrichment (Z-Score) | Raw Expression (Log₂ Intensity) | Key Brain Function |
+| Brain Region | Subregion | Heatmap Color | Relative Enrichment (Z-Score) | Raw Expression (Log₂ Intensity) 
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **Basal Ganglia** | Putamen (Front Area) | Bright Red | **$+3.53$** | $5.53$ | Main movement control hub |
-| **Basal Ganglia** | Putamen (Back Area) | Bright Red | **$+2.84$** | $5.02$ | Movement and sensory coordination |
-| **Caudate Nucleus** | Caudate Body | Dark Red | **$+2.61$** | $4.78$ | Memory and motor decision-making |
-| **Caudate Nucleus** | Caudate Tail | Dark Red | **$+2.49$** | $4.66$ | Visual and spatial tracking |
-| **Reward Center** | Nucleus Accumbens | Medium Red | **$+1.45$** | $6.14$ | Motivation and reward processing |
-| **Cortex (Control)** | Cerebral Cortex | Green / Dark | **Negative** | Low Baseline | High-level thinking and control |
+| **Basal Ganglia** | Putamen (Front Area) | Bright Red | **3.55274** |  5.58184 | 
+| **Basal Ganglia** | Putamen (Back Area) | Bright Red | ** 2.84138** | 5.01978 | 
+| **Caudate Nucleus** | Caudate Body | Dark Red | **2.84814** |  4.93374 | 
+| **Caudate Nucleus** | Caudate Tail | Dark Red | **4.00446** |  5.94424 | 
+| **Reward Center** | Nucleus Accumbens | Medium Red | **1.4493** | 6.14142 |
+| **Cortex** | Cerebral Cortex | Green / Dark | **Negative** | 
 
-*Putamen shows the strongest selective enrichment (Z-score = +3.53) compared to the rest of the brain.*
+**Putamen shows the strongest selective enrichment (Z-score = +3.55) compared to the rest of the brain.**
