@@ -42,7 +42,7 @@ The aim of this analysis is to evaluate whether regional genetic activity correl
 ### Striatal Circuit Expression Data
 
 | Brain Region | Subregion | Heatmap Color | Relative Enrichment (Z-Score) | Raw Expression (Log₂ Intensity) 
-| :--- | :--- | :--- | :--- | :--- | :--- |
+| :--- | :--- | :--- | :--- | :--- |
 | **Basal Ganglia** | Putamen (Front Area) | Bright Red | **3.55274** |  5.58184 | 
 | **Basal Ganglia** | Putamen (Back Area) | Bright Red | ** 2.84138** | 5.01978 | 
 | **Caudate Nucleus** | Caudate Body | Dark Red | **2.84814** |  4.93374 | 
