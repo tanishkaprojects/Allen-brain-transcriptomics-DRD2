@@ -1,6 +1,6 @@
 # Spatial Gene expression mapping of Dopamine receptor D2 (DRD2) across the human brain 
 
-## Executive Summary
+## Summary
 In this project, I worked on how the brain maps out its genetic blueprints for movement. I observed **Dopamine receptor D2 (*DRD2*)** across the entire human brain using high-resolution molecular data. I took microarray transcriptome dataset from the **Allen Human Brain Atlas**
 The aim of this project is to test whether DRD2 gene activity matches the brain's known movement control centers. Since Dopamine is involved in controlling physical movement, the mRNA expression is expected to show regional enrichment in the brain's internal motor hubs (Basal ganglia) such as caudate nucleus and putamen compared to Neocortical control layers (The cerebral cortex). Therefore, I analyzed the raw mRNA expression levels on the atlas.
 
@@ -72,5 +72,5 @@ The aim of this project is to test whether DRD2 gene activity matches the brain'
 
 ## Project access and Repositories 
 * **Data Source:** [Allen Human Brain Atlas Portal](https://human.brain-map.org/)
-* 
+* **Data link** https://github.com/tanishkaprojects/Allen-brain-transcriptomics-DRD2/blob/8a6f7082e5f9a55750e9f425c0c0b9d574403f12/README.md
 
