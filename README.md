@@ -29,14 +29,10 @@ The aim of this analysis is to evaluate whether regional genetic activity correl
 
 ### Figure 2: Anatomical Localization of DRD2 mRNA Transcripts
 
-| Macro View: Whole Brain Slice |
-| ![Macro Overview](drd2_macro_overview.png) 
+| Macro View: Whole Brain Slice | Micro View: Caudate Head Detail |
+(| :---: | :---: |)
 
-**Figure 2A: Whole brain slice showing where the striatum tissue block was sampled.**
+| ![Macro Overview](drd2_macro_overview.png) | ![Caudate Head Zoom](drd2_caudate_head_zoomed.png) |
+| *Figure 2A: Whole brain slice showing where the striatum tissue block was sampled.* | *Figure 2B: Zoomed-in tissue section highlighting the caudate head boundary.* |
 
----
 
-| Micro View: Caudate Head Detail |
-![Caudate Head Zoom](drd2_micro_caudal_head_zoomed.png) |
-
-**Figure 2B: Zoomed-in tissue section highlighting the caudate head boundary.**
