@@ -23,11 +23,11 @@ The aim of this analysis is to evaluate whether regional genetic activity correl
 
 ### Figure 1: Whole-Brain DRD2 Expression Heatmap
 
-![DRD2 Expression Heatmap](images/drd2_heatmap.png)
+![DRD2 Expression Heatmap](drd2_heatmap.png)
 *Fig 1: Complete microarray matrix view from the Allen Human Brain Atlas interface tracking DRD2 expression profiles across human donor tissue.*
 
 ### Figure 2: Anatomical Localization of DRD2 mRNA Transcripts
 
 | Macro View: Whole Brain Slice | Micro View: Caudate Head Target |
-| ![Macro Overview](images/drd2_macro_overview.png) | ![Caudate Head Zoom](images/drd2_caudate_head_zoomed.png) |
+| ![Macro Overview](drd2_macro_overview.png) | ![Caudate Head Zoom](drd2_caudate_head_zoomed.png) |
 | *Figure 1A: Coronal slice establishing macro anatomical placement.* | *Figure 1B: Concentrated DRD2 transcript expression in the caudate head.* |
