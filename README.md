@@ -37,9 +37,9 @@ The aim of this project is to test whether DRD2 gene activity matches the brain'
 
 --- 
 
-## Structural Breakdown
+## Key findings
 
-### Striatal Circuit Expression Data
+### Expression Data
 
 | Brain Region | Subregion | Heatmap Color | Relative Enrichment (Z-Score) | Raw Expression (Log₂ Intensity) 
 | :--- | :--- | :--- | :--- | :--- |
@@ -51,3 +51,26 @@ The aim of this project is to test whether DRD2 gene activity matches the brain'
 | **Cortex** | Cerebral Cortex | Green / Dark green | **-0.87928** | 1.40777 |
 
 **Putamen shows the strongest selective enrichment (Z-score = +3.55) compared to the rest of the brain.**
+
+---
+
+**Main takeaways from this project**
+
+
+* The Putamen shows the highest selective enrichment of (+3.55) while the Nucleus Accumbens shows the highest mRNA levels of (6.14)
+* Neocortical areas shows negative expression (-0.87) which proves that they are present mainly in sub-cortical regions.
+* The localization of D2 receptors alters the motor/limbic circuits and therefore affecting the body's movement and causes side effects like Parkinson.
+
+---
+
+
+## Discussion
+
+*DRD2* gene activity is heavily concentrated in the basal ganglia. specifically in the Putamen and Caudate Nucleus regions. It has a primary role in controlling movements. While the Putamen shows the highest selective enrichment across the brain (Z = +3.55), the Nucleus Accumbens has the highest overall physical amount of mRNA (log_2 = 6.14). The outer brain regions like the Prefrontal Cortex shows minimal activity (Z = -0.87), proving that DRD2 receptors are strictly localized to deep subcortical areas. This specific pattern explains why D2 receptors are target for movement disorders like Parkinson's disease and schizophrenia disorder. 
+
+---
+
+## Project access and Repositories 
+* **Data Source:** [Allen Human Brain Atlas Portal](https://human.brain-map.org/)
+* 
+
