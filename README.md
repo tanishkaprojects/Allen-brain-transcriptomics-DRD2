@@ -29,5 +29,5 @@ The aim of this analysis is to evaluate whether regional genetic activity correl
 ### Figure 2: Anatomical Localization of DRD2 mRNA Transcripts
 
 | Macro View: Whole Brain Slice | Micro View: Caudate Head Target |
-| ![Macro Overview](drd2_macro_overview.png) | ![Caudate Head Zoom](drd2_caudate_head_zoomed.png) |
+| ![Macro Overview](drd2_macro_overview.png) | ![Caudate Head Zoom](drd2_caudal_head_zoomed.png) |
 | *Figure 1A: Coronal slice establishing macro anatomical placement.* | *Figure 1B: Concentrated DRD2 transcript expression in the caudate head.* |
