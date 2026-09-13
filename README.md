@@ -1,4 +1,4 @@
-# Spatial Gene expression mapping of Dopamine receptor D2 (DRD2) across the human brain 
+# Gene expression mapping of Dopamine receptor D2 (DRD2) across the human brain 
 
 ## Summary
 In this project, I worked on how the brain maps out its genetic blueprints for movement. I observed **Dopamine receptor D2 (*DRD2*)** across the entire human brain using high-resolution molecular data. I took microarray transcriptome dataset from the **Allen Human Brain Atlas**
