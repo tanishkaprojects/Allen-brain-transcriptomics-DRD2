@@ -72,7 +72,7 @@ The aim of this project is to test whether DRD2 gene activity matches the brain'
 
 ## Project access and Repositories 
 * **Data Source:** [Allen Human Brain Atlas Portal](https://human.brain-map.org/)
-* **Tabular Data** (*https://github.com/tanishkaprojects/Allen-brain-transcriptomics-DRD2/blob/main/allen-brain-transcriptomics-drd2*)
+* **Tabular Data** (*https://github.com/tanishkaprojects/Allen-brain-transcriptomics-DRD2/blob/main/drd2-expression-data*)
   Contains Z-scores and log data of the specific regions.
 
   * **Visual data**
