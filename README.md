@@ -19,6 +19,8 @@ The aim of this analysis is to evaluate whether regional genetic activity correl
 * **Evaluated Regions:** Striatal Structures (Head and Tail of the Caudate Nucleus, Putamen) and Neocortical Controls (Cerebral Cortex).
 ---
 
+## Neuroanatomical Visualizations
+
 ### Figure 1: Whole-Brain DRD2 Expression Heatmap
 
 ![DRD2 Expression Heatmap](drd2_heatmap.png)
