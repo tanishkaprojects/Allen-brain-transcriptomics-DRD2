@@ -35,4 +35,21 @@ The aim of this analysis is to evaluate whether regional genetic activity correl
 
 | *Figure 2A: Whole brain slice showing where the striatum tissue block was sampled.* |     *Figure 2B: Zoomed-in tissue section highlighting the caudate head boundary.* |
 
+--- 
 
+## 4. Quantitative Structural Breakdown
+
+## 4. Quantitative Structural Breakdown
+
+### Striatal Circuit Expression Data
+
+| Brain Region | Subregion | Heatmap Color | Relative Enrichment (Z-Score) | Raw Expression (Log₂ Intensity) | Key Brain Function |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **Basal Ganglia** | Putamen (Front Area) | Bright Red | **$+3.53$** | $5.53$ | Main movement control hub |
+| **Basal Ganglia** | Putamen (Back Area) | Bright Red | **$+2.84$** | $5.02$ | Movement and sensory coordination |
+| **Caudate Nucleus** | Caudate Body | Dark Red | **$+2.61$** | $4.78$ | Memory and motor decision-making |
+| **Caudate Nucleus** | Caudate Tail | Dark Red | **$+2.49$** | $4.66$ | Visual and spatial tracking |
+| **Reward Center** | Nucleus Accumbens | Medium Red | **$+1.45$** | $6.14$ | Motivation and reward processing |
+| **Cortex (Control)** | Cerebral Cortex | Green / Dark | **Negative** | Low Baseline | High-level thinking and control |
+
+*Putamen shows the strongest selective enrichment (Z-score = +3.53) compared to the rest of the brain.*
