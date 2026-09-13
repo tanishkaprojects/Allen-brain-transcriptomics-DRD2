@@ -44,7 +44,7 @@ The aim of this project is to test whether DRD2 gene activity matches the brain'
 | Brain Region | Subregion | Heatmap Color | Relative Enrichment (Z-Score) | Raw Expression (Log₂ Intensity) 
 | :--- | :--- | :--- | :--- | :--- |
 | **Basal Ganglia** | Putamen (Front Area) | Bright Red | **3.55274** |  5.58184 | 
-| **Basal Ganglia** | Putamen (Back Area) | Bright Red | ** 2.84138** | 5.01978 | 
+| **Basal Ganglia** | Putamen (Back Area) | Bright Red | **2.84138** | 5.01978 | 
 | **Caudate Nucleus** | Caudate Body | Dark Red | **2.84814** |  4.93374 | 
 | **Caudate Nucleus** | Caudate Tail | Dark Red | **4.00446** |  5.94424 | 
 | **Reward Center** | Nucleus Accumbens | Medium Red | **1.4493** | 6.14142 |
