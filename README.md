@@ -1,14 +1,24 @@
-# Gene expression mapping of Dopamine receptor D2 (DRD2) across the human brain 
+# DRD2 Gene expression mapping across the human brain 
 
 ## Summary
-In this project, I worked on how the brain maps out its genetic blueprints for movement. I observed **Dopamine receptor D2 (*DRD2*)** across the entire human brain using high-resolution molecular data. I took microarray transcriptome dataset from the **Allen Human Brain Atlas**
-The aim of this project is to test whether DRD2 gene activity matches the brain's known movement control centers. Since Dopamine is involved in controlling physical movement, the mRNA expression is expected to show regional enrichment in the brain's internal motor hubs (Basal ganglia) such as caudate nucleus and putamen compared to Neocortical control layers (The cerebral cortex). Therefore, I analyzed the raw mRNA expression levels on the atlas.
+This project analyzed how **Dopamine receptor D2 (*DRD2*)** gene expression is distributed across the brain regions using microarray data from the **Allen Human Brain Atlas**. 
+The aim of this project was to test whether DRD2 mRNA expression is higher in motor control regions compared to cortical areas. Since Dopamine is involved in controlling physical movement, the mRNA expression is expected to show regional enrichment in the brain's internal motor hubs (Basal ganglia) such as caudate nucleus and putamen compared to Neocortical control layers (The cerebral cortex). Therefore, I analyzed the raw mRNA expression levels on the atlas.
+
+**Main research Question:**
+Does DRD2 show stronger expression in brain regions that control movement?
+*Yes, DRD2 is highly enriched in the basal ganglia mainly in putamen and caudate nucleus while have minimal expression in cerebral cortex. which signifies that it is present abundantly in the movement control regions of the brain. 
 
 ---
 ## Scientific background and hypothesis
 
-* **Biological context:** The dopamine D2 receptor (DRD2) is a crucial G protein-coupled receptor encoded by the DRD2 gene on chromosome 11. It is one of the most abundant dopamine receptors in the central nervous system and is particularly concentrated in the basal ganglia, nucleus accumbens, and prefrontal cortex. Unlike D1-like receptors which excite neurons, the D2 receptor is inhibitory. It plays a major role in central nervous system for inhibiting unwanted motor actions and modulating reward-based learning. 
-* **Hypothesis:** Because DRD2 is heavily involved in gating the motor signals, I hypothize that the raw expression data will reveal significant structural enrichment (high positive z-scores) inside the basal ganglia specifically the head and tail of he caudate nucleus. whereas, expression should be zero or negative (z-scores) in the neocortical regions like the cerebral cortex.
+* **Why did we chose DRD2:** The dopamine D2 receptor (DRD2) is a inhibitory dopamine receptor encoded on chromosome 11.
+*  It is one of the most abundant dopamine receptors in the central nervous system
+*  It is most abundant in the basal ganglia, nucleus accumbens and prefrontal cortex.
+*  Unlike the D1-like receptors which excite neurons, the D2 receptor is inhibitory in nature therefore, plays a major role in central nervous system for suppressing unwanted motor movements and modulating reward-based learning.
+
+  
+  ### **Hypothesis:** 
+As dopamine signaling through DRD2 regulates the motor control. I hypothize that the expression data will show -  ificant structural enrichment (high positive z-scores) inside the basal ganglia specifically the head and tail of he caudate nucleus. whereas, expression should be zero or negative (z-scores) in the neocortical regions like the cerebral cortex.
   
 ---
 ## Methodology & Data Sources
