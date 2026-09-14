@@ -21,6 +21,7 @@ Yes, DRD2 is highly enriched in the basal ganglia mainly in putamen and caudate 
   ### **Hypothesis:** 
   
 As dopamine signaling through DRD2 regulates the motor control. I hypothize that the expression data will show - 
+
 **High expression** i.e. significant structural enrichment (high positive z-scores) inside the basal ganglia specifically the head and tail of the caudate nucleus along with putamen. 
 
 **low expression:** whereas, expression should be zero or negative (z-scores) in the neocortical regions like the cerebral cortex.
@@ -34,7 +35,8 @@ As dopamine signaling through DRD2 regulates the motor control. I hypothize that
 * **Selected probe:** CUST_1494_PI417557136
 * **Evaluated Regions:** Striatal Structures (Head and Tail of the Caudate Nucleus, Putamen) and Neocortical Controls (Cerebral Cortex).
 * **Data Visualization Method:** Data extraction and visualization were performed using the interactive graphic user interface (GUI) of the Allen Human Brain Atlas Web Interface.
----
+  
+
 
 **Workflow Analysis** 
 1. Access the Allen Human Brain Atlas on web (web- interface)
